@@ -74,7 +74,7 @@ Se achar este repositório útil, sinta-se à vontade para citar nossa [publica�
     year = {2022},
     pages = {56},
     address = {Florianopolis, SC, Brasil},
-    school = {Universidade Federal de Santa Catarina}
+    school = {Universidade Federal de Santa Catarina},
     url = {https://repositorio.ufsc.br/handle/123456789/243399}        
 }
 ```
