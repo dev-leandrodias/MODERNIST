@@ -1,0 +1,10 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Janela de sentenças de tamanho 3 contendo palavra \"negro\", \"escravo\" e \"crioulo\"",
+      "tensorShape": [1379, 1024],
+      "tensorPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/14-alvo/records_sentencedocumento_janela_1.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/14-alvo/meta_sentencedocumento_janela_1.tsv"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Janela de sentenças de tamanho 3 ate 19 contendo palavra \"negro\": da última BERTimbau Large",
+      "tensorPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/1-alvo/records_sentencedocumento_janela_0.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/1-alvo/meta_sentencedocumento_janela_0.tsv"
+    }
+  ]
+}

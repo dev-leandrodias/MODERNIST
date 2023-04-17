@@ -62,3 +62,19 @@ As projeções dos *embeddings* de palavras podem se relacionar com os seguintes
 
 **Embedding Projector** : Smilkov, D., Thorat, N., Nicholson, C., Reif, E., Vi ́egas, F.B., Wattenberg, M., 2016. Embedding projector: Interactive visualization and interpretation of embeddings. arXiv preprint arXiv:1611.05469. https://arxiv.org/pdf/1611.05469.pdf
 
+## Citando & Autores
+
+Se achar este repositório útil, sinta-se à vontade para citar nossa [publicação](https://sol.sbc.org.br/index.php/sbie/article/view/18103):
+
+```bibtex 
+@misc{dias-2022-MODERNIST,
+    title = "Mineração de padrões morfo-semânticos em textos literários com o BERT",
+    author = "DIAS, Leandro da Silveira",    
+    location = {Online},
+    year = {2022},
+    pages = {56},
+    address = {Florianopolis, SC, Brasil},
+    school = {Universidade Federal de Santa Catarina}
+    url = {https://repositorio.ufsc.br/handle/123456789/243399}        
+}
+```

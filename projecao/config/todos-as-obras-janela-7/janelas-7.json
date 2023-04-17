@@ -1,0 +1,10 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Sentenças contendo as palavras-alvo",
+      "tensorShape": [1768, 1024],
+      "tensorPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/todos-as-obras/records_sentencedocumento_embbedings_all_obras_7.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/todos-as-obras/meta_sentencedocumento_embbedings_all_obras_7.tsv"
+    }
+  ]
+}
