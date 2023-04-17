@@ -64,7 +64,7 @@ As projeções dos *embeddings* de palavras podem se relacionar com os seguintes
 
 ## Citando & Autores
 
-Se achar este repositório útil, sinta-se à vontade para citar nossa [publicação](https://sol.sbc.org.br/index.php/sbie/article/view/18103):
+Se achar este repositório útil, sinta-se à vontade para citar nossa [publicação](https://repositorio.ufsc.br/handle/123456789/243399):
 
 ```bibtex 
 @misc{dias-2022-MODERNIST,
